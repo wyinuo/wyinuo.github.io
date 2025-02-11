@@ -1,0 +1,20 @@
+---
+title: "Welcome to My Website"
+author: "Yinuo Wang"
+date: "2025-02-11"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+# Hello, World!  
+Welcome to my Quarto website.  
+
+# Module 0
+- Slies
+- Lecture
+  - Assignment
+
+# Module 1
+[AD 688](https://AD688.com)
+
