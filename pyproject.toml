@@ -1,0 +1,19 @@
+[project]
+name = "wyinuo-github-io"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Yinuo Wang",email = "197538334+wyinuo@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [{include = "wyinuo"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
