@@ -1,0 +1,28 @@
+---
+title: "CV"
+---
+
+## Curriculum Vitae
+
+**Name**: [Your Full Name]  
+**Languages**: English, Mandarin  
+**Technical Skills**:  
+- Programming: Python, R, SQL Lite  
+- Tools: Excel, Microsoft Office, Tableau, R Studio, FileMaker Pro  
+- Design: Adobe, GIMP  
+- Web: Quarto, GitHub, VS Code  
+
+### 🎓 Education
+**[Your University Name]**  
+Degree: [Your Degree]  
+Expected Graduation: [Month, Year]  
+
+### 💼 Experience
+**Data Analyst Intern** – [Company Name], [Year]  
+- Conducted analysis using R and Excel  
+- Visualized insights in Tableau  
+
+**Teaching Assistant** – [Course Name], [Year]  
+- Assisted in Python lab sessions and provided student support
+
+_(Add or adjust based on your actual experience!)_

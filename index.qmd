@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Website"
+title: "Nice to Meet you, My Name is Yinuo"
 author: "Yinuo Wang"
 date: "2025-02-11"
 format:
@@ -7,14 +7,13 @@ format:
     theme: journal
     toc: true
 ---
-# Hello, World!  
-Welcome to my Quarto website.  
 
-# Module 0
-- Slies
-- Lecture
-  - Assignment
+## About Me
 
-# Module 1
-[AD 688](https://AD688.com)
+Hi there! Nice to meet you! 🙌
 
+I am a master student in Boston University majored in Applied Business Analytics 📈. I did my undergraduate degree in Statistics 📊 in University of Waterloo, which is in Canada.
+
+I’m fluent in **English** and **Mandarin**, and I have a strong skill set across both technical and creative tools. My technical skills include **Python**, **R Studio**, **SQL Lite**, **Excel**, **Microsoft Office**, **Tableau**, **Adobe**, **FileMaker Pro**, and **GIMP**. Whether it’s data analysis, visualization, or creative design, I enjoy diving into new projects and solving problems efficiently.
+
+Outside of work, I’m passionate about reading, table tennis, skiing, traveling, and listening to music. I have lived in three countries China 🇨🇳, Canada 🇨🇦, and USA 🇺🇸. I am really interested in the difference of food, weather, and culture. If you have some interesting stories, you are welcomed to tell me, I am always a good listener 👂.

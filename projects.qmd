@@ -1,0 +1,19 @@
+---
+title: "My Projects"
+---
+
+## Projects
+
+Here are some of the academic and personal projects I've worked on:
+
+### 📊 Data Analysis Projects
+- **Lobster Land Loyalty Study**: Analyzed customer visit frequency and spending using R and Excel.
+- **Real Estate Trends in South Jamaica**: Built Power BI dashboards and conducted time series analysis in R.
+- **Job Posting Insights**: Leveraged PySpark to analyze large datasets from Lightcast.
+
+### 🧠 Machine Learning
+- **Passholder Renewal Prediction**: Created a logistic regression model to predict renewals based on customer behavior.
+- **Clustering Theme Park Visitors**: Used k-means clustering in R to segment customers by visit patterns.
+
+### 🎨 Creative Work
+- **Infographic Design**: Designed visually engaging data stories using Adobe tools and GIMP.
