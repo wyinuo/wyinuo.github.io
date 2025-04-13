@@ -161,7 +161,7 @@ Degree: Bachelor Graduated In: Dec, 2023</p>
 <section id="download-my-cv" class="level2">
 <h2 class="anchored" data-anchor-id="download-my-cv">⬇️ Download My CV</h2>
 <p>You can download a copy of my full CV here:</p>
-<p><a href="files/Yinuo Wang Resume.pdf.pdf" target="_blank">📄 Download CV (PDF)</a></p>
+<p><a href="files/YinuoWang_CV.pdf" target="_blank">📄 Download CV (PDF)</a></p>
 
 
 </section>
@@ -257,7 +257,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/wyinuo\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

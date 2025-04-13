@@ -43,4 +43,4 @@ Graduated In: Dec, 2023
 
 You can download a copy of my full CV here:
 
-[📄 Download CV (PDF)](files/Yinuo%20Wang%20Resume.pdf.pdf){target="_blank"}
+[📄 Download CV (PDF)](files/YinuoWang_CV.pdf){target="_blank"}
