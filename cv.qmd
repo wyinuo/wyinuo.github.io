@@ -4,7 +4,7 @@ title: "CV"
 
 ## Curriculum Vitae
 
-**Name**: [Your Full Name]  
+**Name**: [Yinuo Wang]  
 **Languages**: English, Mandarin  
 **Technical Skills**:  
 - Programming: Python, R, SQL Lite  
@@ -13,16 +13,34 @@ title: "CV"
 - Web: Quarto, GitHub, VS Code  
 
 ### 🎓 Education
-**[Your University Name]**  
-Degree: [Your Degree]  
-Expected Graduation: [Month, Year]  
+**[Boston University]**  
+Degree: [Master]  
+Expected Graduation: [Aug, 2025]
+
+**[University of Waterloo]**  
+Degree: [Bachelor]  
+Graduated In: [Dec, 2023]
 
 ### 💼 Experience
-**Data Analyst Intern** – [Company Name], [Year]  
-- Conducted analysis using R and Excel  
-- Visualized insights in Tableau  
+**GMO Asistant** – [Siemens Shanghai Center], [2021]  
+- Through working with multi-department team assistants to complete the planning and implementation of corporate cultural activities, I have increased my ability of communication, coordination, and overall arrangement.
+- By updating and sorting out the statistical warehouse information, completing the work area division chart, getting familiar with the installation process of hardware equipment, and carrying out information communication and file transfer among colleagues in the department, I have exercised my ability of quick information sorting, effective communication, and time management.
+- Assist the foreign boss in English interpretation, document signing and delivery, visa application, reservation of air tickets and hotels, etc.
+- Use SAP system to complete the general manager's office's daily reimbursement and approval, business report sorting, and permission application.
+- Use the DOE system to manage the process of all interns on board, leaving and postponing their internship.
+- Use the IT Service Portal to assist new employees to apply for induction equipment, employee communication equipment, external access card, etc.
+- Use OneSRM for ordering, purchasing and subsequent receiving processes, summarizing and tabulating.
 
-**Teaching Assistant** – [Course Name], [Year]  
-- Assisted in Python lab sessions and provided student support
+**Service Operations Intern** – [NIO Inc.], [2021]  
+- Assist colleagues to complete 23 wiper tests, record the results and summarize them.
+- Improved the ability to communicate and coordinate, observe details, and make overall arrangements by cooperating with multiple departments to prepare and successfully complete the "Car Owner Experience Wiper" activity.
+- Use the service desk of Feishu APP to build an internal and external communication platform named "Accessories Little Assistant", also equipped with a common question answering module, to provide a more convenient and efficient communication channel for the accessories team and service center staff.
+- Organize and make daily and weekly reports and regularly report the work progress of the operation department to facilitate colleagues to grasp the work progress in time.
+- Assisted colleagues in making the news summary section of the monthly magazine "Limitless Parts" and adjusting the overall layout.
 
-_(Add or adjust based on your actual experience!)_
+
+## Download My CV (PDF)
+
+You can download a copy of my full CV here:
+
+[📄 Download CV (PDF)](files/Yinuo%20Wang%20Resume.pdf.pdf){target="_blank"}
