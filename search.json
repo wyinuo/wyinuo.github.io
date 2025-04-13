@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Name: Yinuo Wang\nLanguages: English, Mandarin\nTechnical Skills:\n- Programming: Python, R, SQL Lite\n- Tools: Excel, Microsoft Office, Tableau, R Studio, FileMaker Pro\n- Design: Adobe, GIMP\n- Web: Quarto, GitHub, VS Code"
+  },
+  {
+    "objectID": "cv.html#download-my-cv",
+    "href": "cv.html#download-my-cv",
+    "title": "Curriculum Vitae",
+    "section": "⬇️ Download My CV",
+    "text": "⬇️ Download My CV\nYou can download a copy of my full CV here:\n📄 Download CV (PDF)"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "My Projects",
@@ -33,19 +47,5 @@
     "title": "Nice to Meet you, My Name is Yinuo",
     "section": "Contact Me",
     "text": "Contact Me\nFeel free to reach out! I’d love to connect. ❤️\n\n📧 Email: wyinuo@bu.edu\n💼 LinkedIn: https://www.linkedin.com/in/tinawang0236/\n💻 GitHub: https://github.com/wyinuo"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Name: Yinuo Wang\nLanguages: English, Mandarin\nTechnical Skills:\n- Programming: Python, R, SQL Lite\n- Tools: Excel, Microsoft Office, Tableau, R Studio, FileMaker Pro\n- Design: Adobe, GIMP\n- Web: Quarto, GitHub, VS Code"
-  },
-  {
-    "objectID": "cv.html#download-my-cv",
-    "href": "cv.html#download-my-cv",
-    "title": "Curriculum Vitae",
-    "section": "⬇️ Download My CV",
-    "text": "⬇️ Download My CV\nYou can download a copy of my full CV here:\n📄 Download CV (PDF)"
   }
 ]
