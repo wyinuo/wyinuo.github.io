@@ -6,19 +6,22 @@ title: "My Projects"
 
 Here are some of the academic and personal projects I've worked on:
 
-- **Real Estate Trends in South Jamaica**: Built Power BI dashboards and conducted time series analysis in R.
+### Real Estate Trends in South Jamaica:
+Built Power BI dashboards and conducted time series analysis in R.
 
 South Jamaica, also known as "Southside," is a residential neighborhood in Queens, located south of downtown Jamaica. The dataset includes 13,860 observations, with 12,854 of them being residential type.
 
 **What does this outcome mean?**
 
 For real estate agents, these insights can help in planning marketing strategies and outreach efforts that align with market trends. Buyers and sellers can use the price prediction model and the forecast to assess market conditions. Developers and investors can use these insights to evaluate the financial health of the market before making investment decisions. Understanding seasonal variations can also assist local governments in making informed decisions about infrastructure and zoning.
+
 You can download a PDF of my outcome here:
 
 [📄 Download (PDF)](files/South%20Jamaica.pdf.pdf){target="_blank"}
 
 
-- **Job Posting Insights**: Leveraged PySpark to analyze large datasets from Lightcast.
+### Job Posting Insights: 
+Leveraged PySpark to analyze large datasets from Lightcast.
 
   🔗 [View on GitHub](https://github.com/CassieLu0/AD688-employability-sp25A3-group2.git)
 

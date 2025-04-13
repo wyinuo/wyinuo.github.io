@@ -1,11 +1,11 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
-## Curriculum Vitae
+**Name**: Yinuo Wang
 
-**Name**: [Yinuo Wang]  
 **Languages**: English, Mandarin  
+
 **Technical Skills**:  
 - Programming: Python, R, SQL Lite  
 - Tools: Excel, Microsoft Office, Tableau, R Studio, FileMaker Pro  
@@ -13,16 +13,16 @@ title: "CV"
 - Web: Quarto, GitHub, VS Code  
 
 ### 🎓 Education
-**[Boston University]**  
-Degree: [Master]  
-Expected Graduation: [Aug, 2025]
+**Boston University**  
+Degree: Master
+Expected Graduation: Aug, 2025
 
-**[University of Waterloo]**  
-Degree: [Bachelor]  
-Graduated In: [Dec, 2023]
+**University of Waterloo**  
+Degree: Bachelor
+Graduated In: Dec, 2023
 
 ### 💼 Experience
-**GMO Asistant** – [Siemens Shanghai Center], [2021]  
+**GMO Asistant** – Siemens Shanghai Center, 2021
 - Through working with multi-department team assistants to complete the planning and implementation of corporate cultural activities, I have increased my ability of communication, coordination, and overall arrangement.
 - By updating and sorting out the statistical warehouse information, completing the work area division chart, getting familiar with the installation process of hardware equipment, and carrying out information communication and file transfer among colleagues in the department, I have exercised my ability of quick information sorting, effective communication, and time management.
 - Assist the foreign boss in English interpretation, document signing and delivery, visa application, reservation of air tickets and hotels, etc.
@@ -31,7 +31,7 @@ Graduated In: [Dec, 2023]
 - Use the IT Service Portal to assist new employees to apply for induction equipment, employee communication equipment, external access card, etc.
 - Use OneSRM for ordering, purchasing and subsequent receiving processes, summarizing and tabulating.
 
-**Service Operations Intern** – [NIO Inc.], [2021]  
+**Service Operations Intern** – NIO Inc., 2021 
 - Assist colleagues to complete 23 wiper tests, record the results and summarize them.
 - Improved the ability to communicate and coordinate, observe details, and make overall arrangements by cooperating with multiple departments to prepare and successfully complete the "Car Owner Experience Wiper" activity.
 - Use the service desk of Feishu APP to build an internal and external communication platform named "Accessories Little Assistant", also equipped with a common question answering module, to provide a more convenient and efficient communication channel for the accessories team and service center staff.
@@ -39,7 +39,7 @@ Graduated In: [Dec, 2023]
 - Assisted colleagues in making the news summary section of the monthly magazine "Limitless Parts" and adjusting the overall layout.
 
 
-## Download My CV (PDF)
+## ⬇️ Download My CV
 
 You can download a copy of my full CV here:
 

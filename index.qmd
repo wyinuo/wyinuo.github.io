@@ -17,3 +17,12 @@ I am a master student in Boston University majored in Applied Business Analytics
 I’m fluent in **English** and **Mandarin**, and I have a strong skill set across both technical and creative tools. My technical skills include **Python**, **R Studio**, **SQL Lite**, **Excel**, **Microsoft Office**, **Tableau**, **Adobe**, **FileMaker Pro**, and **GIMP**. Whether it’s data analysis, visualization, or creative design, I enjoy diving into new projects and solving problems efficiently.
 
 Outside of work, I’m passionate about reading, table tennis, skiing, traveling, and listening to music. I have lived in three countries China 🇨🇳, Canada 🇨🇦, and USA 🇺🇸. I am really interested in the difference of food, weather, and culture. If you have some interesting stories, you are welcomed to tell me, I am always a good listener 👂.
+
+
+## Contact Me
+
+Feel free to reach out! I’d love to connect. ❤️
+
+- 📧 Email: wyinuo@bu.edu
+- 💼 LinkedIn: [https://www.linkedin.com/in/tinawang0236/](https://www.linkedin.com/in/tinawang0236/)
+- 💻 GitHub: [https://github.com/wyinuo](https://github.com/wyinuo)
