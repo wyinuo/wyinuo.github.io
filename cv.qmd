@@ -1,5 +1,9 @@
 ---
 title: "Curriculum Vitae"
+format:
+  html:
+    theme: lux
+    toc: true
 ---
 
 **Name**: Yinuo Wang

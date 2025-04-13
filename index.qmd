@@ -4,7 +4,7 @@ author: "Yinuo Wang"
 date: "2025-02-11"
 format:
   html:
-    theme: journal
+    theme: lux
     toc: true
 ---
 

@@ -1,5 +1,9 @@
 ---
 title: "My Projects"
+format:
+  html:
+    theme: lux
+    toc: true
 ---
 
 ## 📊 Data Analysis Projects
