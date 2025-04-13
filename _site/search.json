@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nice to Meet you, My Name is Yinuo",
-    "section": "",
-    "text": "Hi there! Nice to meet you! 🙌\nI am a master student in Boston University majored in Applied Business Analytics 📈. I did my undergraduate degree in Statistics 📊 in University of Waterloo, which is in Canada.\nI’m fluent in English and Mandarin, and I have a strong skill set across both technical and creative tools. My technical skills include Python, R Studio, SQL Lite, Excel, Microsoft Office, Tableau, Adobe, FileMaker Pro, and GIMP. Whether it’s data analysis, visualization, or creative design, I enjoy diving into new projects and solving problems efficiently.\nOutside of work, I’m passionate about reading, table tennis, skiing, traveling, and listening to music. I have lived in three countries China 🇨🇳, Canada 🇨🇦, and USA 🇺🇸. I am really interested in the difference of food, weather, and culture. If you have some interesting stories, you are welcomed to tell me, I am always a good listener 👂."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Nice to Meet you, My Name is Yinuo",
-    "section": "",
-    "text": "Hi there! Nice to meet you! 🙌\nI am a master student in Boston University majored in Applied Business Analytics 📈. I did my undergraduate degree in Statistics 📊 in University of Waterloo, which is in Canada.\nI’m fluent in English and Mandarin, and I have a strong skill set across both technical and creative tools. My technical skills include Python, R Studio, SQL Lite, Excel, Microsoft Office, Tableau, Adobe, FileMaker Pro, and GIMP. Whether it’s data analysis, visualization, or creative design, I enjoy diving into new projects and solving problems efficiently.\nOutside of work, I’m passionate about reading, table tennis, skiing, traveling, and listening to music. I have lived in three countries China 🇨🇳, Canada 🇨🇦, and USA 🇺🇸. I am really interested in the difference of food, weather, and culture. If you have some interesting stories, you are welcomed to tell me, I am always a good listener 👂."
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -21,32 +7,11 @@
     "text": "Name: Yinuo Wang\nLanguages: English, Mandarin\nTechnical Skills:\n- Programming: Python, R, SQL Lite\n- Tools: Excel, Microsoft Office, Tableau, R Studio, FileMaker Pro\n- Design: Adobe, GIMP\n- Web: Quarto, GitHub, VS Code"
   },
   {
-    "objectID": "cv.html#curriculum-vitae",
-    "href": "cv.html#curriculum-vitae",
-    "title": "CV",
-    "section": "",
-    "text": "Name: [Yinuo Wang]\nLanguages: English, Mandarin\nTechnical Skills:\n- Programming: Python, R, SQL Lite\n- Tools: Excel, Microsoft Office, Tableau, R Studio, FileMaker Pro\n- Design: Adobe, GIMP\n- Web: Quarto, GitHub, VS Code\n\n\n[Boston University]\nDegree: [Master]\nExpected Graduation: [Aug, 2025]\n[University of Waterloo]\nDegree: [Bachelor]\nGraduated In: [Dec, 2023]\n\n\n\nGMO Asistant – [Siemens Shanghai Center], [2021]\n- Through working with multi-department team assistants to complete the planning and implementation of corporate cultural activities, I have increased my ability of communication, coordination, and overall arrangement. - By updating and sorting out the statistical warehouse information, completing the work area division chart, getting familiar with the installation process of hardware equipment, and carrying out information communication and file transfer among colleagues in the department, I have exercised my ability of quick information sorting, effective communication, and time management. - Assist the foreign boss in English interpretation, document signing and delivery, visa application, reservation of air tickets and hotels, etc. - Use SAP system to complete the general manager’s office’s daily reimbursement and approval, business report sorting, and permission application. - Use the DOE system to manage the process of all interns on board, leaving and postponing their internship. - Use the IT Service Portal to assist new employees to apply for induction equipment, employee communication equipment, external access card, etc. - Use OneSRM for ordering, purchasing and subsequent receiving processes, summarizing and tabulating.\nService Operations Intern – [NIO Inc.], [2021]\n- Assist colleagues to complete 23 wiper tests, record the results and summarize them. - Improved the ability to communicate and coordinate, observe details, and make overall arrangements by cooperating with multiple departments to prepare and successfully complete the “Car Owner Experience Wiper” activity. - Use the service desk of Feishu APP to build an internal and external communication platform named “Accessories Little Assistant”, also equipped with a common question answering module, to provide a more convenient and efficient communication channel for the accessories team and service center staff. - Organize and make daily and weekly reports and regularly report the work progress of the operation department to facilitate colleagues to grasp the work progress in time. - Assisted colleagues in making the news summary section of the monthly magazine “Limitless Parts” and adjusting the overall layout."
-  },
-  {
-    "objectID": "cv.html#download-my-cv-pdf",
-    "href": "cv.html#download-my-cv-pdf",
-    "title": "CV",
-    "section": "Download My CV (PDF)",
-    "text": "Download My CV (PDF)\nYou can download a copy of my full CV here:\n📄 Download CV (PDF)"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Feel free to reach out! I’d love to connect. ❤️\n\n📧 Email: [wyinuo@bu.edu]\n💼 LinkedIn: https://www.linkedin.com/in/tinawang0236/\n💻 GitHub: https://github.com/wyinuo"
-  },
-  {
-    "objectID": "contact.html#contact-me",
-    "href": "contact.html#contact-me",
-    "title": "Contact",
-    "section": "",
-    "text": "Feel free to reach out! I’d love to connect.\n\n📧 Email: [wyinuo@bu.edu]\n💼 LinkedIn: https://www.linkedin.com/in/tinawang0236/\n💻 GitHub: https://github.com/wyinuo"
+    "objectID": "cv.html#download-my-cv",
+    "href": "cv.html#download-my-cv",
+    "title": "Curriculum Vitae",
+    "section": "⬇️ Download My CV",
+    "text": "⬇️ Download My CV\nYou can download a copy of my full CV here:\n📄 Download CV (PDF)"
   },
   {
     "objectID": "projects.html",
@@ -63,11 +28,18 @@
     "text": "Here are some of the academic and personal projects I’ve worked on:\n\n\nBuilt Power BI dashboards and conducted time series analysis in R.\nSouth Jamaica, also known as “Southside,” is a residential neighborhood in Queens, located south of downtown Jamaica. The dataset includes 13,860 observations, with 12,854 of them being residential type.\nWhat does this outcome mean?\nFor real estate agents, these insights can help in planning marketing strategies and outreach efforts that align with market trends. Buyers and sellers can use the price prediction model and the forecast to assess market conditions. Developers and investors can use these insights to evaluate the financial health of the market before making investment decisions. Understanding seasonal variations can also assist local governments in making informed decisions about infrastructure and zoning.\nYou can download a PDF of my outcome here:\n📄 Download (PDF)\n\n\n\nLeveraged PySpark to analyze large datasets from Lightcast.\n🔗 View on GitHub"
   },
   {
-    "objectID": "cv.html#download-my-cv",
-    "href": "cv.html#download-my-cv",
-    "title": "Curriculum Vitae",
-    "section": "⬇️ Download My CV",
-    "text": "⬇️ Download My CV\nYou can download a copy of my full CV here:\n📄 Download CV (PDF)"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nice to Meet you, My Name is Yinuo",
+    "section": "",
+    "text": "Hi there! Nice to meet you! 🙌\nI am a master student in Boston University majored in Applied Business Analytics 📈. I did my undergraduate degree in Statistics 📊 in University of Waterloo, which is in Canada.\nI’m fluent in English and Mandarin, and I have a strong skill set across both technical and creative tools. My technical skills include Python, R Studio, SQL Lite, Excel, Microsoft Office, Tableau, Adobe, FileMaker Pro, and GIMP. Whether it’s data analysis, visualization, or creative design, I enjoy diving into new projects and solving problems efficiently.\nOutside of work, I’m passionate about reading, table tennis, skiing, traveling, and listening to music. I have lived in three countries China 🇨🇳, Canada 🇨🇦, and USA 🇺🇸. I am really interested in the difference of food, weather, and culture. If you have some interesting stories, you are welcomed to tell me, I am always a good listener 👂."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Nice to Meet you, My Name is Yinuo",
+    "section": "",
+    "text": "Hi there! Nice to meet you! 🙌\nI am a master student in Boston University majored in Applied Business Analytics 📈. I did my undergraduate degree in Statistics 📊 in University of Waterloo, which is in Canada.\nI’m fluent in English and Mandarin, and I have a strong skill set across both technical and creative tools. My technical skills include Python, R Studio, SQL Lite, Excel, Microsoft Office, Tableau, Adobe, FileMaker Pro, and GIMP. Whether it’s data analysis, visualization, or creative design, I enjoy diving into new projects and solving problems efficiently.\nOutside of work, I’m passionate about reading, table tennis, skiing, traveling, and listening to music. I have lived in three countries China 🇨🇳, Canada 🇨🇦, and USA 🇺🇸. I am really interested in the difference of food, weather, and culture. If you have some interesting stories, you are welcomed to tell me, I am always a good listener 👂."
   },
   {
     "objectID": "index.html#contact-me",
