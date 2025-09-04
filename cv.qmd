@@ -19,10 +19,12 @@ format:
 ### 🎓 Education
 **Boston University**  
 Degree: Master
+
 Graduated In: Aug, 2025
 
 **University of Waterloo**  
 Degree: Bachelor
+
 Graduated In: Dec, 2023
 
 ### 💼 Experience
