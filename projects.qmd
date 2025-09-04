@@ -25,10 +25,8 @@ You can download a PDF of my outcome here:
 
 
 ### Job Posting Insights: 
-Leveraged PySpark to analyze large datasets from Lightcast.
+I also completed a group project with two teammates.
 
-This report focus on the transformative impact of AI, salary disparities, and evolving employment patterns across various regions and industries. This website presents an in-depth exploration of job market data, including detailed insights into industry shifts, regional differences, and emerging skill demands. Additionally, we provide a thorough skill gap analysis, helping to bridge the divide between current team capabilities and the rapidly changing requirements of the IT job market. Join us in exploring how data-driven insights can shape career paths and workforce strategies in the modern job landscape.
+This report focus on the transformative impact of AI, salary disparities, and evolving employment patterns across various regions and industries. The website presents an in-depth exploration of job market data, including detailed insights into industry shifts, regional differences, and emerging skill demands. Additionally, we provide a thorough skill gap analysis, helping to bridge the divide between current team capabilities and the rapidly changing requirements of the IT job market. Join us in exploring how data-driven insights can shape career paths and workforce strategies in the modern job landscape.
 
   🔗 [View in Browser](https://cassielu0.github.io/AD688-employability-sp25A3-group2/)
-  🔗 [View on GitHub](https://github.com/CassieLu0/AD688-employability-sp25A3-group2.git)
-
