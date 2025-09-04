@@ -12,14 +12,14 @@ format:
 
 **Technical Skills**:  
 - Programming: Python, R, SQL Lite  
-- Tools: Excel, Microsoft Office, Tableau, R Studio, FileMaker Pro  
-- Design: Adobe, GIMP  
-- Web: Quarto, GitHub, VS Code  
+- Tools: Excel, Tableau, Power BI, R Studio, FileMaker Pro  
+- Design: Adobe, GIMP 
+- Web: Quarto, GitHub, VS Code
 
 ### 🎓 Education
 **Boston University**  
 Degree: Master
-Expected Graduation: Aug, 2025
+Graduated In: Aug, 2025
 
 **University of Waterloo**  
 Degree: Bachelor
