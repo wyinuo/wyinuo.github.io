@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "My Projects",
-    "section": "",
-    "text": "Here are some of the academic and personal projects I’ve worked on:\n\n\nBuilt Power BI dashboards and conducted time series analysis in R.\nSouth Jamaica, also known as “Southside,” is a residential neighborhood in Queens, located south of downtown Jamaica. The dataset includes 13,860 observations, with 12,854 of them being residential type.\nWhat does this outcome mean?\nFor real estate agents, these insights can help in planning marketing strategies and outreach efforts that align with market trends. Buyers and sellers can use the price prediction model and the forecast to assess market conditions. Developers and investors can use these insights to evaluate the financial health of the market before making investment decisions. Understanding seasonal variations can also assist local governments in making informed decisions about infrastructure and zoning.\nYou can download a PDF of my outcome here:\n📄 Download (PDF)\n\n\n\nLeveraged PySpark to analyze large datasets from Lightcast.\n🔗 View on GitHub"
-  },
-  {
-    "objectID": "projects.html#data-analysis-projects",
-    "href": "projects.html#data-analysis-projects",
-    "title": "My Projects",
-    "section": "",
-    "text": "Here are some of the academic and personal projects I’ve worked on:\n\n\nBuilt Power BI dashboards and conducted time series analysis in R.\nSouth Jamaica, also known as “Southside,” is a residential neighborhood in Queens, located south of downtown Jamaica. The dataset includes 13,860 observations, with 12,854 of them being residential type.\nWhat does this outcome mean?\nFor real estate agents, these insights can help in planning marketing strategies and outreach efforts that align with market trends. Buyers and sellers can use the price prediction model and the forecast to assess market conditions. Developers and investors can use these insights to evaluate the financial health of the market before making investment decisions. Understanding seasonal variations can also assist local governments in making informed decisions about infrastructure and zoning.\nYou can download a PDF of my outcome here:\n📄 Download (PDF)\n\n\n\nLeveraged PySpark to analyze large datasets from Lightcast.\n🔗 View on GitHub"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nice to Meet you, My Name is Yinuo",
-    "section": "",
-    "text": "Hi there! Nice to meet you! 🙌\nI am a master student in Boston University majored in Applied Business Analytics 📈. I did my undergraduate degree in Statistics 📊 in University of Waterloo, which is in Canada.\nI’m fluent in English and Mandarin, and I have a strong skill set across both technical and creative tools. My technical skills include Python, R Studio, SQL Lite, Excel, Microsoft Office, Tableau, Adobe, FileMaker Pro, and GIMP. Whether it’s data analysis, visualization, or creative design, I enjoy diving into new projects and solving problems efficiently.\nOutside of work, I’m passionate about reading, table tennis, skiing, traveling, and listening to music. I have lived in three countries China 🇨🇳, Canada 🇨🇦, and USA 🇺🇸. I am really interested in the difference of food, weather, and culture. If you have some interesting stories, you are welcomed to tell me, I am always a good listener 👂."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Nice to Meet you, My Name is Yinuo",
-    "section": "",
-    "text": "Hi there! Nice to meet you! 🙌\nI am a master student in Boston University majored in Applied Business Analytics 📈. I did my undergraduate degree in Statistics 📊 in University of Waterloo, which is in Canada.\nI’m fluent in English and Mandarin, and I have a strong skill set across both technical and creative tools. My technical skills include Python, R Studio, SQL Lite, Excel, Microsoft Office, Tableau, Adobe, FileMaker Pro, and GIMP. Whether it’s data analysis, visualization, or creative design, I enjoy diving into new projects and solving problems efficiently.\nOutside of work, I’m passionate about reading, table tennis, skiing, traveling, and listening to music. I have lived in three countries China 🇨🇳, Canada 🇨🇦, and USA 🇺🇸. I am really interested in the difference of food, weather, and culture. If you have some interesting stories, you are welcomed to tell me, I am always a good listener 👂."
-  },
-  {
-    "objectID": "index.html#contact-me",
-    "href": "index.html#contact-me",
-    "title": "Nice to Meet you, My Name is Yinuo",
-    "section": "Contact Me",
-    "text": "Contact Me\nFeel free to reach out! I’d love to connect. ❤️\n\n📧 Email: wyinuo@bu.edu\n💼 LinkedIn: https://www.linkedin.com/in/tinawang0236/\n💻 GitHub: https://github.com/wyinuo"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Name: Yinuo Wang\nLanguages: English, Mandarin\nTechnical Skills:\n- Programming: Python, R, SQL Lite\n- Tools: Excel, Microsoft Office, Tableau, R Studio, FileMaker Pro\n- Design: Adobe, GIMP\n- Web: Quarto, GitHub, VS Code"
+    "text": "Name: Yinuo Wang\nLanguages: English, Mandarin\nTechnical Skills:\n- Programming: Python, R, SQL Lite\n- Tools: Excel, Tableau, Power BI, R Studio, FileMaker Pro\n- Design: Adobe, GIMP - Web: Quarto, GitHub, VS Code"
   },
   {
     "objectID": "cv.html#download-my-cv",
@@ -47,5 +12,40 @@
     "title": "Curriculum Vitae",
     "section": "⬇️ Download My CV",
     "text": "⬇️ Download My CV\nYou can download a copy of my full CV here:\n📄 Download CV (PDF)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nice to Meet you, My Name is Yinuo",
+    "section": "",
+    "text": "Hi there! Nice to meet you! 🙌\nI just finished my master’s degree in Boston University majored in Applied Business Analytics 📈. I did my undergraduate degree in Statistics 📊 in University of Waterloo, which is in Canada.\nI’m fluent in English and Mandarin, and I have a strong skill set across both technical and creative tools. My technical skills include Python, R Studio, SQL Lite, Excel, Tableau, Power BI Adobe, FileMaker Pro, and GIMP. Whether it’s data analysis, visualization, or creative design, I enjoy diving into new projects and solving problems efficiently.\nOutside of work, I’m passionate about reading, table tennis, skiing, traveling, and listening to music. I have lived in three countries China 🇨🇳, Canada 🇨🇦, and USA 🇺🇸. I am really interested in the difference of food, weather, and culture. If you have some interesting stories, you are welcomed to tell me, I am always a good listener 👂."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Nice to Meet you, My Name is Yinuo",
+    "section": "",
+    "text": "Hi there! Nice to meet you! 🙌\nI just finished my master’s degree in Boston University majored in Applied Business Analytics 📈. I did my undergraduate degree in Statistics 📊 in University of Waterloo, which is in Canada.\nI’m fluent in English and Mandarin, and I have a strong skill set across both technical and creative tools. My technical skills include Python, R Studio, SQL Lite, Excel, Tableau, Power BI Adobe, FileMaker Pro, and GIMP. Whether it’s data analysis, visualization, or creative design, I enjoy diving into new projects and solving problems efficiently.\nOutside of work, I’m passionate about reading, table tennis, skiing, traveling, and listening to music. I have lived in three countries China 🇨🇳, Canada 🇨🇦, and USA 🇺🇸. I am really interested in the difference of food, weather, and culture. If you have some interesting stories, you are welcomed to tell me, I am always a good listener 👂."
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Nice to Meet you, My Name is Yinuo",
+    "section": "Contact Me",
+    "text": "Contact Me\nFeel free to reach out! I’d love to connect. ❤️\n\n📧 Email: tinawang0236@gmail.com\n💼 LinkedIn: https://www.linkedin.com/in/tinawang0236/\n💻 GitHub: https://github.com/wyinuo"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Here are some of the academic and personal projects I’ve worked on:\n\n\nBuilt Power BI dashboards and conducted time series analysis in R.\nSouth Jamaica, also known as “Southside,” is a residential neighborhood in Queens, located south of downtown Jamaica. The dataset includes 13,860 observations, with 12,854 of them being residential type.\nWhat does this outcome mean?\nFor real estate agents, these insights can help in planning marketing strategies and outreach efforts that align with market trends. Buyers and sellers can use the price prediction model and the forecast to assess market conditions. Developers and investors can use these insights to evaluate the financial health of the market before making investment decisions. Understanding seasonal variations can also assist local governments in making informed decisions about infrastructure and zoning.\nYou can download a PDF of my outcome here:\n📄 Download (PDF)\n\n\n\nLeveraged PySpark to analyze large datasets from Lightcast.\nThis report focus on the transformative impact of AI, salary disparities, and evolving employment patterns across various regions and industries. This website presents an in-depth exploration of job market data, including detailed insights into industry shifts, regional differences, and emerging skill demands. Additionally, we provide a thorough skill gap analysis, helping to bridge the divide between current team capabilities and the rapidly changing requirements of the IT job market. Join us in exploring how data-driven insights can shape career paths and workforce strategies in the modern job landscape.\n🔗 View in Browser 🔗 View on GitHub"
+  },
+  {
+    "objectID": "projects.html#data-analysis-projects",
+    "href": "projects.html#data-analysis-projects",
+    "title": "My Projects",
+    "section": "",
+    "text": "Here are some of the academic and personal projects I’ve worked on:\n\n\nBuilt Power BI dashboards and conducted time series analysis in R.\nSouth Jamaica, also known as “Southside,” is a residential neighborhood in Queens, located south of downtown Jamaica. The dataset includes 13,860 observations, with 12,854 of them being residential type.\nWhat does this outcome mean?\nFor real estate agents, these insights can help in planning marketing strategies and outreach efforts that align with market trends. Buyers and sellers can use the price prediction model and the forecast to assess market conditions. Developers and investors can use these insights to evaluate the financial health of the market before making investment decisions. Understanding seasonal variations can also assist local governments in making informed decisions about infrastructure and zoning.\nYou can download a PDF of my outcome here:\n📄 Download (PDF)\n\n\n\nLeveraged PySpark to analyze large datasets from Lightcast.\nThis report focus on the transformative impact of AI, salary disparities, and evolving employment patterns across various regions and industries. This website presents an in-depth exploration of job market data, including detailed insights into industry shifts, regional differences, and emerging skill demands. Additionally, we provide a thorough skill gap analysis, helping to bridge the divide between current team capabilities and the rapidly changing requirements of the IT job market. Join us in exploring how data-driven insights can shape career paths and workforce strategies in the modern job landscape.\n🔗 View in Browser 🔗 View on GitHub"
   }
 ]
